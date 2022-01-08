@@ -53,9 +53,9 @@
 - [x] Affichage faces seulement / segments seulement
 - [x] Affichage avancé de la bibliothèque de modèles
 - [x] Recherche dans la bibliothèque de modèles
-- [ ] Éditer les informations sur un modèle
+- [x] Éditer les informations sur un modèle
 - [x] Modèle centré
-- [ ] Éclairage
+- [x] Éclairage
 - [ ] Lissage
 - [ ] Ombre portée
 - [ ] Vue en tranches
@@ -68,12 +68,12 @@
 
 ## Autres exigences
 
-- [ ] Tests unitaires
-- [ ] Diagramme de classes UML
-- [ ] Javadoc
-- [ ] Captures d'écran
-- [ ] Vidéo de présentation
-- [ ] Respect du format de rendu
+- [x] Tests unitaires
+- [x] Diagramme de classes UML
+- [x] Javadoc
+- [x] Captures d'écran
+- [x] Vidéo de présentation
+- [x] Respect du format de rendu
 
 ## Distribution du travail (qui a fait quoi)
 
